@@ -1,0 +1,14 @@
+{
+  "appId": "YOUR-APP-ID",
+  "appName": "YOUR APP NAME",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "linuxAndroidStudioPath": "YOUR ANDROID STUDIO LAUNCH PATH"
+}
